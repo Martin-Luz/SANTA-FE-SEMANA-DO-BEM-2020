@@ -1,0 +1,525 @@
+@media screen and (min-width: $xs) {
+     // fontes
+     @font-face {
+      font-family: "campton";
+      src: url("../fonts/campton/Rene\ Bieder\ -\ Campton-Book.otf");
+    }
+  
+    body{
+      font-family: "campton";
+    }
+    
+      h1 {
+          font-style: normal;
+          font-weight: 500;
+          font-size: 4rem;
+          line-height: 7.625rem;
+        }
+  
+        h2{
+          font-style: normal;
+          font-weight: 500;
+          font-size: 2rem;
+          line-height: 2.5rem;
+        }
+  
+        h3{
+          font-style: italic;
+          font-weight: 500;
+          font-size: 1.2rem;
+          line-height: 1.4rem;
+        }
+  
+        p{
+          font-size: 1rem;
+          line-height: 21px;
+          color: $azul01;
+        }
+  
+        .p2{
+          font-style: normal;
+          font-weight: normal;
+          font-size: 14px;
+          line-height: 20px;
+          color: $azul01;
+        }
+  
+        .italico{
+          font-style: italic;
+        }
+
+      // botoes
+      .btn{
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 0.75rem;
+        height: 45px;
+        line-height: 35px;
+        border: none;
+        outline: none;
+        border-radius: 10px;
+      }
+  
+      .btn-azul01{
+        background-color: $azul01;
+      }
+  
+      // estilos especificos
+      .bg01{
+          min-height: 80vh;
+          background-image: url(../img/bg01.png);
+          background-size: 100% 100%;
+          background-position: center;
+      }
+  
+      .header{
+          display: flex;
+          align-items: center;
+          padding-top: 2%;
+  
+          &__logo{
+              width: 12%;
+          }
+      
+          &__menu{
+              width:60%;
+              display: flex;
+              justify-content: space-between;
+              margin-right: 3%;
+              margin-left: 8%;
+  
+              a{
+                  display: inline-block;
+                  text-decoration: none;
+                  font-style: normal;
+                  font-weight: 500;
+                  font-size: 16px;
+                  line-height: 30px;
+              }
+          }
+  
+          &__btn-fazer-pedido{
+            background-color: $salmao;
+            width: 20%;
+          }
+      }
+  
+      .todo-dia-e-de{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10%;
+
+        h1{
+          margin-top: -2%;
+        }
+
+        p{
+          text-align: center;
+          margin-top: 2%;
+        }
+     
+        .btn{
+          width: 30%;
+          margin-top: 1%;
+        }
+      }
+  
+      .como-faco-meu-pedido{
+        background-color: $azul02;
+        padding: $padding-sections 0;
+        text-align: center;
+  
+        h2{
+          color: #fff;
+        }
+  
+        p{
+          margin-top: 2%;
+        }
+  
+        &__passo-a-passo{
+          display: flex;
+          justify-content: space-between;
+          margin-top: 4%;
+        }
+  
+        &__passo{
+          width: 20%;
+        }
+  
+        &__icone{
+          height: 90px;
+          display: flex;
+          justify-content: center;
+          align-items: flex-end;
+      
+            img{
+              width: 30%;
+            }
+         }
+  
+         &__titulo{
+          color: #fff;
+          background: url(../img/detalhe-subtitulo-passos.png) no-repeat center 160%;
+          margin-top: 4%;
+        }
+  
+        &__bg02{
+          margin-top: 4%;
+          background-image: url("../img/bg02.png");
+          background-size: cover;
+        }
+  
+        &__btn{
+          width: 25%;
+        }
+      }
+  
+      .confira-nossos-pratos{
+        padding: $padding-sections 0;
+  
+        p{
+          width: 80%;
+        }
+  
+        &__titulo-compartilhar{
+          width: 65%;
+          margin-top: 10%;
+         h3{
+          font-size: 2rem;
+          font-style: normal;
+         }
+  
+         img{
+           width:100% ;
+           position: relative;
+           top: -10px;
+         }
+        }
+  
+        ul{
+          padding: 0;
+          list-style: none;
+        }
+  
+        li{
+          color: $azul01;
+          font-size: 1.5rem;
+          margin-bottom: 3%;
+        }
+  
+        .btn{
+          width: 50%;
+        }
+  
+        &__pratos-wrapper{
+          overflow-y: scroll;
+          height: 500px;
+          -ms-overflow-style: none;
+          scrollbar-width: none;
+  
+          &::-webkit-scrollbar {
+            display: none;
+          }
+        }
+  
+        &__prato{
+          margin-bottom: 10%;
+          img{
+            width: 90%;
+          }
+        }
+  
+        &__titulo{
+          margin-top: 2%;
+        }
+  
+        &__preco{
+          display: flex;
+          align-items: center;
+         
+          h2, h3{
+            font-weight: bold;
+          }
+        }
+      }
+  
+      .ver-ofertas{
+        background-color: $azul01;
+        height: 200px;
+      
+        &__flex{
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          height: 200px;
+        }
+  
+        p{
+          position: relative;
+          left: 2%;
+        }
+  
+        &__span01{
+          display: block;
+          font-size: 2rem;
+          font-weight: bold;
+          margin-bottom: 0;
+        }
+  
+        &__span02{
+          color: #fff;
+          font-size: 1.8rem;
+        }
+  
+        &__btn{
+          background-color: $azul02;
+          width: 20%;
+        }
+  
+        &__onda{
+            width: 30%;
+            position: relative;
+            top: -75px;
+        }
+      }
+  
+      .pedido-em-casa{
+        padding: $padding-sections 0;
+        &__slide-img{
+          width: 80%;
+        }
+  
+        &__btn{
+          width: 55%;
+          margin-top: 1%;
+        }
+  
+        &__caixa-entrega01{
+          width: 25%;
+          position: relative;
+          top: -50px;
+          left: -40px;
+          z-index: 999;
+        }
+  
+        &__caixa-entrega02{
+          width: 35%;
+          position: relative;
+          top: -130px;
+          left: -130px;
+        }
+      }
+  
+      .area-de-entrega{
+        padding: $padding-sections 0;
+  
+        p{
+          width: 70%;
+        }
+  
+        &__mapa{
+          width: 100%;
+          height: 300px;
+        }
+  
+        &__outras-informacoes{
+          display: flex;
+        }
+  
+        &__area{
+          width: 40%;
+  
+          p{
+            font-size: 0.7rem;
+          }
+        }
+  
+        &__bairros{
+          width: 60%;
+          margin-left: 6%;
+        }
+  
+        &__bairros-wrapper{
+          display: flex;
+        
+          ul{
+            padding: 0;
+            list-style: none;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+          }
+  
+          li{
+            width: 45%;
+            font-size: 0.7rem;
+          }
+        }
+      }
+  
+     .avaliacoes{
+       padding: $padding-sections 0;
+       background: $azul02;
+       color: #fff;
+  
+       p{
+         font-size: 1.7rem;
+         line-height: 2rem;
+         font-weight: bold;
+       }
+  
+       &__box{
+         background-color: $azul01;
+         width: 100%;
+         height: 250px;
+         position: relative;
+         left: -15%;
+         display: flex;
+         justify-content: space-between;
+       }
+  
+       &__foto{
+         width: 15%;
+         position: absolute;
+         top: -20%;
+         left: 22%;
+       }
+  
+       &__conteudo{
+         width: 60%;
+         height: 100%;
+         text-align: center;
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         padding: 0 4%;
+  
+         cite{
+           font-style: normal;
+         }
+       }
+  
+       &__autor{
+         margin: 5% 0 10% 0;
+         font-size: 0.7rem;
+       }
+  
+       &__img{
+         width: 40%;
+         height: 100%;
+    
+         img{
+           width: 100%;
+           height: 100%;
+         }
+       }
+  
+       &__onda{
+         width: 30%;
+         position: relative;
+         top: -70px;
+       }
+     }
+  
+      .quem-somos{
+        padding: $padding-sections 0;
+        background-image: url(../img/ondas-quem-somos.png);
+        background-repeat: no-repeat;
+        background-size: 20%;
+        background-position: 35% 62%;
+    
+  
+        &__img{
+          width: 90%;
+        }
+  
+        &__btn{
+          width: 50%;
+        }
+      }
+  
+      .instagram{
+        padding: $padding-sections 0;
+        background-color: $salmao;
+  
+        h2{
+          font-size: 1.5rem;
+        }
+  
+        &__conta{
+          color: #fff;
+        }
+  
+        &__imgs{
+          display: flex;
+          margin-top: 5%;
+  
+          img{
+            width: 20%;
+            margin-right: 4%;
+          }
+        }
+      }
+  
+      .footer{
+        text-align: center;
+        padding:  1% 0;
+        color: $azul01;
+        font-size: 0.7rem;
+      }
+}
+
+@media screen and (min-width: $sm) {
+  h1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 71px;
+  }
+
+  h2{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+  }
+
+  h3{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .p2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+}
+
+@media screen and (min-width: $md) {
+
+}
+
+@media screen and (min-width: $lg) {
+ 
+}
+
+@media screen and (min-width: $xl) {
+   // estrutura
+   .container{
+    width: 70%;
+   }
+}

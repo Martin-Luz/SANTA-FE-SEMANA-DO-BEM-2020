@@ -1,0 +1,9 @@
+QA Santa Fé
+ 
+DESK
+
+1) nao consegui deixar o icone do youtube no footer verde no hover
+
+2) Link para telefones
+
+3) hover para os controles do carrousel

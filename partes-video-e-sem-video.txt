@@ -1,0 +1,59 @@
+joao:
+
+  <!-- mobile -->
+                       <iframe class="d-block d-lg-none mt-4  mx-auto" width="327" height="218"
+                       src="https://www.youtube.com/embed/KDggvG_ynQA" frameborder="0"
+                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                       allowfullscreen></iframe>
+
+                   <!-- desk -->
+                   <iframe class="d-none d-lg-block" width="584" height="340"
+                       src="https://www.youtube.com/embed/KDggvG_ynQA" frameborder="0"
+                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                       allowfullscreen></iframe>
+
+
+
+
+sem video:
+
+ <!-- coluna 01 -->
+                  <div class="col-12 mx-auto mx-xl-0 col-xl-6 p-0 relative-top-logo-header">
+                    <!-- logo mobile -->
+                    <img class="mx-auto  d-block d-xl-none mt-4" src="./assets/img/logo-semana-do-bem-mobile.svg"
+                        alt="Semana do Bem logo">
+
+                    <!-- logo desk -->
+                    <img class="d-none d-xl-block" src="./assets/img/logo-semana-do-bem-desk.svg"
+                        alt="Semana do Bem logo">
+
+                    <!-- mobile -->
+                    <h3 class="d-block d-xl-none center c-branco mt-4">Conectados garantindo o futuro de nossas crianças
+                    </h3>
+
+                    <!-- desk -->
+                    <div class="d-none d-xl-block mt-4 ml-lg-95">
+                        <h3 class="c-branco ">Conectados garantindo o <br> futuro de
+                            nossas crianças
+                        </h3>
+
+                        <h1 class="c-verde">2 a 6 novembro <br> de 2020</h1>
+                    </div>
+
+                    <!-- mobile -->
+                    <h1 class="d-block d-lg-none center c-verde">2 a 6 novembro</h1>
+                </div>
+                <!--fim coluna 01 -->
+
+                <!-- coluna 02 -->
+                <div class="col-12 col-xl-6 mx-auto mx-xl-0 p-0">
+                    <img class="d-block mx-auto" src="./assets/img/atracoes-header.png" alt="#">
+                    <div class="d-flex justify-content-between align-items-center my-4">
+                        <img src="./assets/img/triangulo-header-left.svg" alt="#">
+                        <h2 class="c-branco center">Preta Gil • Leandro Karnal</h2>
+                        <img src="./assets/img/triangulo-header-right.svg" alt="#">
+                    </div>
+
+                    <h4 class="c-branco center">Jacque Dallal • Fernanda Scheer • Ana Escobar • Nome do Convidado • Nome do Convidado • Leilão
+                        de Obras de Arte e muito mais!</h4>
+                </div> <!-- fim coluna 02 -->

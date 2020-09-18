@@ -181,6 +181,18 @@ label.error {
     z-index: 100;
 }
 
+.botaoOpacidade{
+    svg  path {
+        fill:   #f5831f63 !important;
+    }
+}
+
+.botaoOpacidadeAzul02{
+    svg  path {
+        fill:   rgba(41, 169, 224, 0.471) !important;
+    }
+}
+
 @media screen and (min-width: $xs) {
     h1 {
         font-family: Suez One;
@@ -582,12 +594,14 @@ label.error {
         position: absolute;
         left: 0px;
         top: 150px;
+        z-index: 100;
     }
 
     .button--next-atracoes {
         position: absolute;
         right: 0;
         top: 150px;
+        z-index: 100;
     }
 
     .button--previous-depoimentos {

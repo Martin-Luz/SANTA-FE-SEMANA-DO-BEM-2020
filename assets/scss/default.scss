@@ -394,6 +394,10 @@ label.error {
       background-color: #494949;
     }
 
+    .h-4-header-subtitulo{
+        line-height: 32px;
+    }
+
 }
 
 @media screen and (min-width: $sm) {
@@ -865,7 +869,7 @@ label.error {
 
     .nosso-historico-desk {
         position: relative;
-        left: 30px;
+        left: 90px;
     }
 
     .texto-mais-atracoes-serao-confirmadas {
@@ -876,6 +880,10 @@ label.error {
     .atracoes-texto-pag-semvideo{
         position: relative;
         top: 0;
+    }
+
+    .h-4-header-subtitulo{
+        line-height: 28px;
     }
 }
 

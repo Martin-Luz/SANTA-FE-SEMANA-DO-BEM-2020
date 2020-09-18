@@ -92,20 +92,6 @@ $('.button--next-depoimentos').on('click', function () {
   $depoDesk .flickity('next');
 });
 
-// $depoDesk.on( 'staticClick.flickity', function( event, pointer, cellElement, cellIndex ) {
-//   // dismiss if cell was not clicked
-//   if ( !cellElement ) {
-//     console.log("teste");
-//     return;
-//   }
-//   // change cell background with .is-clicked
-//   // $depoDesk.find('.is-clicked').removeClass('is-clicked');
-//   // $( cellElement ).addClass('is-clicked');
-//   // $logger.text( 'Cell ' + ( cellIndex + 1 )  + ' clicked' );
-// });
-
-
-
 $('.quemParticipou').flickity({
   // options
   cellAlign: 'center',
@@ -123,17 +109,18 @@ $('.passosAjudar').flickity({
 
 
 // MENU MOBILE
-const iconeMenu = document.querySelector("#menu-mobile");
-const menuMobile = document.querySelector(".menu-mobile-links");
-const btnFecharMenu = document.querySelector("#btn-fechar-menu");
 
-iconeMenu.addEventListener("click", () => {
-  menuMobile.style.display = "block";
+const iconeMenu = $("#menu-mobile");
+const menuMobile = $(".menu-mobile-links");
+const btnFecharMenu = $("#btn-fechar-menu");
+
+iconeMenu.click(function(){
+  menuMobile.slideDown();
 });
 
-btnFecharMenu.addEventListener("click", () => {
-  menuMobile.style.display = "none";
-});
+btnFecharMenu.click(function(){
+  menuMobile.fadeOut();
+})
 
 
 // VALIDACAO FORM

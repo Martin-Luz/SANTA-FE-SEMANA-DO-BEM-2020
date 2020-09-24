@@ -70,12 +70,19 @@ $depoDesk.flickity({
       console.log('Slide changed to' + index);
 
       if(index == 0){
-        console.log("teste");
+        console.log("index " + index);
         $('.button--previous-depoimentos').addClass("botaoOpacidade");
         $('.button--next-depoimentos').removeClass("botaoOpacidade");
       }
-      
+
       if(index == 1){
+        console.log("index " + index);
+        $('.button--next-depoimentos').removeClass("botaoOpacidade");
+        $('.button--previous-depoimentos').removeClass("botaoOpacidade");
+      }
+      
+      if(index == 2){
+        console.log("index " + index);
         $('.button--next-depoimentos').addClass("botaoOpacidade");
         $('.button--previous-depoimentos').removeClass("botaoOpacidade");
       }

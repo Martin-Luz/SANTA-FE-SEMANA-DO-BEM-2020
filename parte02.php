@@ -33,6 +33,8 @@
             contribuírem mais uma vez para mudar a história de milhares de crianças e suas famílias.
         </p>
 
+        <p class="c-cinza" style="font-weight: 800; font-size: 18px;"> Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.</p>
+
         <div class="d-flex flex-column justify-content-center">
             <div class="d-flex">
                 <svg class="triangulo-ingresso-verde" width="90" height="88" viewBox="0 0 90 88" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -44,7 +46,7 @@
                     <path d="M25 0L0 18.6667V56H50V18.6667L25 0ZM26.5625 29.5556C26.5625 32.1378 24.4688 34.2222 21.875 34.2222V46.6667H18.75V34.2222C16.1562 34.2222 14.0625 32.1378 14.0625 29.5556V20.2222H17.1875V29.5556H18.75V20.2222H21.875V29.5556H23.4375V20.2222H26.5625V29.5556ZM34.375 46.6667H31.25V35.7778H28.125V26.4444C28.125 23.0222 30.9375 20.2222 34.375 20.2222V46.6667Z" fill="#FCC905" />
                 </svg>
 
-                <hp class="c-azul bold position-1-mes">1 mês de alimentação <br> para uma criança</hp>
+                <hp class="c-azul bold position-1-mes">1 mês de alimentação <br> e todas as necessidades <br> de uma criança</hp>
             </div>
 
             <a class="btn btn-primary bgc-amarelo bdc-amarelo  c-cinza btn-hover-azul mt-5" href="#header" role="button">Comprar
@@ -68,6 +70,8 @@
                         entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de
                         milhares de crianças e suas famílias. </p>
 
+                        <p class="c-cinza" style="font-weight: 800; font-size: 18px;"> Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.</p>
+                        
                     <a class="btn btn-primary bgc-amarelo bdc-amarelo c-cinza btn-hover-azul mt-1 px-4 btn-comprar-ingresso" href="#header" role="button">Comprar
                         ingressos</a>
                 </div>
@@ -86,7 +90,7 @@
                             <path d="M25 0L0 18.6667V56H50V18.6667L25 0ZM26.5625 29.5556C26.5625 32.1378 24.4688 34.2222 21.875 34.2222V46.6667H18.75V34.2222C16.1562 34.2222 14.0625 32.1378 14.0625 29.5556V20.2222H17.1875V29.5556H18.75V20.2222H21.875V29.5556H23.4375V20.2222H26.5625V29.5556ZM34.375 46.6667H31.25V35.7778H28.125V26.4444C28.125 23.0222 30.9375 20.2222 34.375 20.2222V46.6667Z" fill="#FCC905" />
                         </svg>
 
-                        <h4 class="c-azul bold position-1-mes">1 mês de alimentação <br> para uma criança</h4>
+                        <h4 class="c-azul bold position-1-mes">1 mês de alimentação <br> e todas as necessidades de uma criança</h4>
                     </div>
                 </div>
             </div><!-- fim row -->
@@ -135,7 +139,7 @@
                         <p class="c-cinza mb-0 center">Dia 02 de novembro 20h às 21h</p>
                         <h3 class="c-azul02 mb-0 center">Live de Esportes</h3>
                         <p class="c-cinza center">
-                            Com Giba, Serginho do vôlei
+                            Com Giba, Serginho do vôlei <br>
                             e Fernando Guimarães 
                         </p>
                     </div>
@@ -147,7 +151,7 @@
                         <p class="c-cinza mb-0 center">Dia 02 de novembro 21h às 22h</p>
                         <h3 class="c-azul02 mb-0 center">Fernanda Scheer</h3>
                         <p class="c-cinza center">
-                            Live sobre Nutrição consciente
+                            Live sobre Nutrição consciente<br>
                             & lifestyle
                         </p>
                     </div>
@@ -163,7 +167,7 @@
                         <h3 class="c-azul02 mb-0 center">Leandro Karnal</h3>
 
                         <p class="c-cinza center">
-                            Live sobre “O Desafio da Humanização”
+                            Live sobre “O Desafio da <br> Humanização”
                         </p>
                     </div>
                 </div>
@@ -174,7 +178,7 @@
                         <p class="c-cinza mb-0 center">Dia 03 de novembro 21h às 22h</p>
                         <h3 class="c-azul02 mb-0 center">Ana Escobar</h3>
                         <p class="c-cinza center">
-                            Live com o tema: Seremos pessoas melhores
+                            Live com o tema: Seremos <br> pessoas <br>
                             depois da Pandemia?
                         </p>
                     </div>
@@ -193,7 +197,7 @@
                         <h3 class="c-azul02 mb-0 center">Jacque DallalTema</h3>
 
                         <p class="c-cinza center">
-                            Live sobre ”O poder transformador das viagens de experiência
+                            Live sobre ”O poder <br> transformador das viagens  de <br> experiência
                         </p>
                     </div>
                 </div>
@@ -208,7 +212,7 @@
                             Nizan Guanaes
                         </h3>
                         <p class="c-cinza">
-                            Fundador da Consultoria N Ideias, e estrategista de comunicação das principais marcas do
+                            Fundador da Consultoria N Ideias, <br> e estrategista de comunicação <br> das principais marcas do
                             Brasil.
                         </p>
                     </div>
@@ -243,7 +247,7 @@
                             de Arte e
                             Experiências</h3>
                         <p class="c-cinza">
-                            André Abucham e Roberto de
+                            André Abucham e Roberto de <br>
                             Magalhães Gouvêa
                         </p>
                     </div>
@@ -293,7 +297,7 @@
                                 </h4>
                                 <h2 class="c-azul02">Live de Esportes</h2>
                                 <p class="c-cinza">
-                                    Com Giba, Serginho do vôlei
+                                    Com Giba, Serginho do vôlei <br>
                                     e Fernando Guimarães
                                 </p>
                             </div>
@@ -318,7 +322,7 @@
                     <!-- linha 2 -->
                     <div class="d-flex justify-content-center">
                         <!-- atracao 1 -->
-                        <div class="d-flex align-items-center" style="width: 550px;">
+                        <div class="d-flex align-items-center" style="width: 550px; position: relative;left: 30px;">
                             <img src="./assets/img/leandro karnal.png" alt="#">
                             <div class="ml-3">
                                 <h4 class="c-cinza">Dia 03 de novembro,<br>
@@ -327,20 +331,20 @@
                                     Leandro Karnal
                                 </h2>
                                 <p class="c-cinza">
-                                    Live sobre “O Desafio da Humanização”
+                                    Live sobre “O Desafio da <br> Humanização”
                                 </p>
                             </div>
                         </div><!-- atracao 1 -->
 
                         <!-- atracao 2 -->
-                        <div class="d-flex align-items-center ml-5" style="width: 550px;">
+                        <div class="d-flex align-items-center ml-5" style="width: 550px; position: relative;left: -20px;">
                             <img src="./assets/img/ana-escobar.png" alt="#">
                             <div class="ml-3">
                                 <h4 class="c-cinza">Dia 03 de novembro, <br>
                                     das 21h às 22h</h4>
                                 <h2 class="c-azul02">Ana Escobar</h2>
                                 <p class="c-cinza">
-                                    Live com o tema: Seremos pessoas<br> melhores
+                                    Live com o tema: Seremos<br> pessoas melhores<br>
                                     depois da Pandemia?
                                 </p>
 
@@ -362,7 +366,7 @@
                                     das 20h às 20h30</h4>
                                 <h2 class="c-azul02">Jacque Dallal</h2>
                                 <p class="c-cinza">
-                                    Live sobre ”O poder transformador das viagens de experiência
+                                    Live sobre ”O poder<br> transformador das viagens de<br> experiência
                                 </p>
                             </div>
                         </div><!-- atracao 1 -->
@@ -377,7 +381,7 @@
                                 </h4>
                                 <h2 class="c-azul02">Nizan Guanaes</h2>
                                 <p class="cinza">
-                                    Fundador da Consultoria N Ideias, e estrategista de comunicação das principais
+                                    Fundador da Consultoria N Ideias,<br> e estrategista de comunicação <br> das principais
                                     marcas do Brasil.
                                 </p>
                             </div>
@@ -411,7 +415,7 @@
                                 <h2 class="c-azul02">Leilão de Obras
                                     de Arte e
                                     Experiências</h2>
-                                <p class="cinza">André Abucham e Roberto de
+                                <p class="cinza">André Abucham e Roberto de<br>
                                     Magalhães Gouvêa</p>
                             </div>
                         </div><!-- atracao 2 -->
@@ -674,7 +678,7 @@
 
     <section class="container-fluid bgc-laranja  margin-top-lg-90">
         <div class="container c-branco center py-5 texto-realizacoes">
-            Já realizamos <span class="bold">8</span> anos de evento e alcançamos o número de mais de <span class="bold">6 milhões</span> em arrecadações.
+            Já realizamos <span class="bold">8</span> anos de evento e alcançamos o número de mais de <span class="bold">R$ 6 milhões</span> em arrecadações.
         </div>
     </section>
 

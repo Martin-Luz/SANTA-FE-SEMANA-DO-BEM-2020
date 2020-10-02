@@ -90,10 +90,10 @@
                             Sua generosidade é bem-vinda.
                         </h3>
 
-                        <h1 class="c-verde">2 a 5 de novembro <br> de 2020</h1>
+                        <h1 class="c-verde">2 a 6 de novembro <br> de 2020</h1>
                     </div>
 
                     <!-- mobile -->
-                    <h1 class="d-block d-lg-none center c-verde">2 a 5 de novembro</h1>
+                    <h1 class="d-block d-lg-none center c-verde">2 a 6 de novembro</h1>
                 </div>
                 <!--fim coluna 01 -->

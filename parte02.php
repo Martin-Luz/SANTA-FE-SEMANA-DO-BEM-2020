@@ -27,13 +27,12 @@
         <h1 class="c-azul mt-2">Mudando histórias </h1>
         <img class="d-block w-100 mt-4 position-img" src="./assets/img/criancas-mobile.png" alt="crianças brincando">
         <p class="c-cinza mt-3">
-            A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro) na
-            plataforma Ingresse. Contaremos com atrações inspiradoras, para entreter e motivar os participantes
-            a
-            contribuírem mais uma vez para mudar a história de milhares de crianças e suas famílias.
+            A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, maus tratos e violência.
         </p>
 
-        <p class="c-cinza" style="font-weight: 800; font-size: 18px;"> Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.</p>
+        <p class="c-cinza" style="font-weight: 900; font-size: 20px;">
+            Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.
+        </p>
 
         <div class="d-flex flex-column justify-content-center">
             <div class="d-flex">
@@ -46,7 +45,9 @@
                     <path d="M25 0L0 18.6667V56H50V18.6667L25 0ZM26.5625 29.5556C26.5625 32.1378 24.4688 34.2222 21.875 34.2222V46.6667H18.75V34.2222C16.1562 34.2222 14.0625 32.1378 14.0625 29.5556V20.2222H17.1875V29.5556H18.75V20.2222H21.875V29.5556H23.4375V20.2222H26.5625V29.5556ZM34.375 46.6667H31.25V35.7778H28.125V26.4444C28.125 23.0222 30.9375 20.2222 34.375 20.2222V46.6667Z" fill="#FCC905" />
                 </svg>
 
-                <hp class="c-azul bold position-1-mes">1 mês de alimentação <br> e todas as necessidades <br> de uma criança</hp>
+                <p class="c-azul bold position-1-mes">
+                1 mês de alimentação <br> e todas as necessidades <br>  de amparo, segurança e  educação de uma criança
+                </p>
             </div>
 
             <a class="btn btn-primary bgc-amarelo bdc-amarelo  c-cinza btn-hover-azul mt-5" href="#header" role="button">Comprar
@@ -64,14 +65,14 @@
                 <div class="col-lg-4 coluna-mudando-historias ml-3 mr-5">
                     <h4 class="c-cinza mt-5">Sobre a Semana do Bem 2020</h4>
                     <h1 class="c-azul mt-2l">Mudando histórias </h1>
-                    <p class="c-cinza mt-3"> A Semana do Bem será um evento 100% online, com cinco dias de lives
-                        (de
-                        02 a 06 de novembro) na plataforma Ingresse. Contaremos com atrações inspiradoras, para
-                        entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de
-                        milhares de crianças e suas famílias. </p>
+                    <p class="c-cinza mt-3">
+                        A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, maus tratos e violência.
+                    </p>
 
-                        <p class="c-cinza" style="font-weight: 800; font-size: 18px;"> Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.</p>
-                        
+                    <p class="c-cinza" style="font-weight: 900; font-size: 18px;">
+                        Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.
+                    </p>
+
                     <a class="btn btn-primary bgc-amarelo bdc-amarelo c-cinza btn-hover-azul mt-1 px-4 btn-comprar-ingresso" href="#header" role="button">Comprar
                         ingressos</a>
                 </div>
@@ -90,7 +91,9 @@
                             <path d="M25 0L0 18.6667V56H50V18.6667L25 0ZM26.5625 29.5556C26.5625 32.1378 24.4688 34.2222 21.875 34.2222V46.6667H18.75V34.2222C16.1562 34.2222 14.0625 32.1378 14.0625 29.5556V20.2222H17.1875V29.5556H18.75V20.2222H21.875V29.5556H23.4375V20.2222H26.5625V29.5556ZM34.375 46.6667H31.25V35.7778H28.125V26.4444C28.125 23.0222 30.9375 20.2222 34.375 20.2222V46.6667Z" fill="#FCC905" />
                         </svg>
 
-                        <h4 class="c-azul bold position-1-mes">1 mês de alimentação <br> e todas as necessidades de uma criança</h4>
+                        <h4 class="c-azul bold position-1-mes">
+                            1 mês de alimentação <br /> e todas as necessidades de amparo, segurança e  educação de uma criança
+                        </h4>
                     </div>
                 </div>
             </div><!-- fim row -->
@@ -197,7 +200,7 @@
                         <h3 class="c-azul02 mb-0 center">Jacque DallalTema</h3>
 
                         <p class="c-cinza center">
-                            Live sobre ”O poder <br> transformador das viagens  de <br> experiência
+                            Live sobre ”O poder <br> transformador das viagens de <br> experiência
                         </p>
                     </div>
                 </div>
@@ -224,20 +227,6 @@
             <div class="carousel-cell w-100">
 
                 <div class="flex align-items-center">
-                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/bingo.svg" alt="leilão de obras de arte e Experiências">
-
-                    <div>
-                        <p class="c-cinza mb-0 center">Dia 04 de novembro,
-                            das 21h às 22h</p>
-                        <h3 class="c-azul02 mb-0 center">Bingo de experiências</h3>
-                        <p class="c-cinza">
-                            Com Bel Mota
-                        </p>
-                    </div>
-                </div>
-
-
-                <div class="flex align-items-center">
                     <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/leilao-obras.png" alt="leilão de obras de arte e Experiências">
 
                     <div>
@@ -252,6 +241,25 @@
                         </p>
                     </div>
                 </div>
+
+                <div class="flex align-items-center">
+                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/preta-gil.png" alt="Preta Gil">
+
+                    <div>
+                        <p class="c-cinza mb-0 center">Dia 5 de novembro,
+                            21h</p>
+                        <h3 class="c-azul02 mb-0 center">
+                            Preta Gil
+                            Show de Encerramento
+                        </h3>
+                        <p class="c-cinza">
+                           
+                        </p>
+                    </div>
+                </div>
+
+
+
 
             </div> <!-- tela 03 carrousel -->
 
@@ -391,20 +399,7 @@
                     <img class="d-block mx-auto my-4" src="./assets/img/divisoria-atracoes-desk.svg" alt="#">
                     <!-- linha 2 -->
                     <div class="d-flex justify-content-center">
-                        <!-- atracao 1 -->
-                        <div class="d-flex align-items-center" style="width: 550px;">
-                            <img src="./assets/img/bingo.svg" alt="#">
-                            <div class="ml-3">
-                                <h4 class="c-cinza">
-                                    Dia 04 de novembro,<br>
-                                    das 21h às 22h
-                                </h4>
-                                <h2 class="c-azul02">Bingo de experiências</h2>
-                                <p class="cinza">Com Bel Mota</p>
-                            </div>
-                        </div><!-- atracao 1 -->
-
-                        <!-- atracao 2 -->
+                        <!-- atracao 3 -->
                         <div class="d-flex align-items-center" style="width: 550px;">
                             <img src="./assets/img/leilao-obras.png" alt="#">
                             <div class="ml-3">
@@ -418,7 +413,24 @@
                                 <p class="cinza">André Abucham e Roberto de<br>
                                     Magalhães Gouvêa</p>
                             </div>
-                        </div><!-- atracao 2 -->
+                        </div>
+                        <!-- atracao 3 -->
+
+                        <!-- atracao 4 -->
+                        <div class="d-flex align-items-center" style="width: 550px;">
+                            <img src="./assets/img/preta-gil.png" alt="#">
+                            <div class="ml-3">
+                                <h4 class="c-cinza">
+                                    Dia 05 de novembro,<br>
+                                    21h
+                                </h4>
+                                <h2 class="c-azul02">
+                                    Preta Gil
+                                    Show de Encerramento
+                                </h2>
+                                <p class="cinza"></p>
+                            </div>
+                        </div><!-- atracao 4 -->
 
                     </div><!-- linha 2-->
                 </div>
@@ -450,7 +462,7 @@
 
                 </div><!-- fim  carrousel atracoes desk  -->
 
-        
+
             </div>
 
             <span class="button--next-atracoes">
@@ -982,17 +994,13 @@
         </div>
 
         <div class="container mt-70">
-            <p> A Associação Beneficente Santa Fé é uma organização não governamental, laica, de direito
-                privado,
-                sem fins lucrativos, fundada em 13 de agosto de 1993.</p>
+            <p>
+                A Associação Beneficente Santa Fé é uma organização não governamental, laica, de direito privado, sem fins lucrativos, fundada em 13 de agosto de 1993.
+            </p>
 
-            <p class="mb-5 pb-5 mb-lg-0 pb-lg-0">Ao longo destes anos, desenvolve trabalho de acolhimento a
-                meninos e meninas, vítimas de maus tratos,
-                abandono, violência sexual, muitos deles provenientes das ruas de São Paulo. O atendimento,
-                multidisciplinar, estende-se também às suas famílias. Desde sua fundação, a Santa Fé já atendeu
-                milhares de jovens e crianças oferecendo um ambiente e suporte apropriados para que desenvolvam
-                todo
-                o seu potencial.</p>
+            <p class="mb-5 pb-5 mb-lg-0 pb-lg-0">
+                Ao longo destes anos, desenvolve trabalho de acolhimento a meninos e meninas, vítimas de maus tratos, abandono, violência sexual, muitos deles provenientes das ruas de São Paulo, cuidando da integridade deles e fornecendo amparo, segurança e educação. Enfim, formando-os para a vida e transformando o futuro dessas crianças.
+            </p>
         </div>
     </section> <!-- fim secao mobile somos a santa fé -->
 
@@ -1016,17 +1024,14 @@
             <div class="col-md-6">
                 <h1 class="c-azul02">Somos a Santa Fé</h1>
 
-                <p>A Associação Beneficente Santa Fé é uma organização não governamental, laica, de direito
-                    privado,
-                    sem fins lucrativos, fundada em 13 de agosto de 1993.</p>
+                <p>
+                    A Associação Beneficente Santa Fé é uma organização não governamental, laica, de direito privado, sem fins lucrativos, fundada em 13 de agosto de 1993.
 
-                <p>Ao longo destes anos, desenvolve trabalho de acolhimento a meninos e meninas, vítimas de maus
-                    tratos, abandono, violência sexual, muitos deles provenientes das ruas de São Paulo. O
-                    atendimento, multidisciplinar, estende-se também às suas famílias. Desde sua fundação, a
-                    Santa
-                    Fé já atendeu milhares de jovens e crianças oferecendo um ambiente e suporte apropriados
-                    para
-                    que desenvolvam todo o seu potencial.</p>
+                </p>
+
+                <p>
+                    Ao longo destes anos, desenvolve trabalho de acolhimento a meninos e meninas, vítimas de maus tratos, abandono, violência sexual, muitos deles provenientes das ruas de São Paulo, cuidando da integridade deles e fornecendo amparo, segurança e educação. Enfim, formando-os para a vida e transformando o futuro dessas crianças.
+                </p>
 
                 <a class="btn btn-primary bgc-azul02 bdc-azul02 bgc-azul02  c-cinza btn-hover-azul  d-none d-lg-block  mt-4  mb-5 btn-somos-santa-fe" href="#header" role="button">Quero apoiar a Santa Fé</a>
             </div>

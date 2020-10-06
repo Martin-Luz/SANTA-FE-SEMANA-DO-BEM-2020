@@ -26,13 +26,13 @@
     <div class="d-flex justify-content-between align-items-center my-4">
         <img src="./assets/img/triangulo-header-left.svg" alt="#">
         <h2 class="c-branco center atracoes-texto-pag-semvideo">
-            Leandro Karnal • Nizan Guanaes • Giba • Serginho do vôlei
+            Leandro Karnal • Nizan Guanaes • Giba • Preta Gil
         </h2>
         <img src="./assets/img/triangulo-header-right.svg" alt="#">
     </div>
 
     <h4 class="c-branco center h-4-header-subtitulo">
-        Fernando Guimarães, Fernanda Scheer, Ana Escobar, Jacque Dallal, Leilão de Obras de Arte, Bingo de Experiências e muito mais!
+        Fernando Guimarães, Fernanda Scheer, Ana Escobar, Jacque Dallal, Leilão de Obras de Arte, Preta Gil e muito mais!
     </h4>
 </div> <!-- fim coluna 02 -->
 </div><!-- fim dessa div que esta na parte 1-> <div class="row  py-3 border-solid mt-lg-80"> -->

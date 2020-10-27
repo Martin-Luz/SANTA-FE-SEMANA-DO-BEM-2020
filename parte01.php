@@ -27,7 +27,7 @@
     <!-- flickty slide CSS -->
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 
-    <link rel="stylesheet" href="./assets/css/main.css">
+    <link rel="stylesheet" href="./assets/css/main.css?<?=time();?>">
 </head>
 
 <body>

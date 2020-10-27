@@ -27,10 +27,10 @@
         <h1 class="c-azul mt-2">Mudando histórias </h1>
         <img class="d-block w-100 mt-4 position-img" src="./assets/img/criancas-mobile.png" alt="crianças brincando">
         <p class="c-cinza mt-3">
-            A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, maus tratos e violência.
+        A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, abusos, maus tratos e violência.
         </p>
 
-        <p class="c-cinza" style="font-weight: 900; font-size: 20px;">
+        <p class="c-preto" style="font-weight: 900; font-size: 20px;">
             Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.
         </p>
 
@@ -46,7 +46,7 @@
                 </svg>
 
                 <p class="c-azul bold position-1-mes">
-                1 mês de alimentação <br> e todas as necessidades <br>  de amparo, segurança e  educação de uma criança
+                1 mês de todas as necessidades de amparo, <br>segurança, alimentação, educação<br> e formação de uma criança
                 </p>
             </div>
 
@@ -66,10 +66,10 @@
                     <h4 class="c-cinza mt-5">Sobre a Semana do Bem 2020</h4>
                     <h1 class="c-azul mt-2l">Mudando histórias </h1>
                     <p class="c-cinza mt-3">
-                        A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, maus tratos e violência.
+                    A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, abusos, maus tratos e violência.
                     </p>
 
-                    <p class="c-cinza" style="font-weight: 900; font-size: 18px;">
+                    <p class="c-preto" style="font-weight: 900; font-size: 18px;">
                         Na compra de um ingresso você faz uma doação de alto impacto na vida de uma criança.
                     </p>
 
@@ -92,7 +92,8 @@
                         </svg>
 
                         <h4 class="c-azul bold position-1-mes">
-                            1 mês de alimentação <br /> e todas as necessidades de amparo, segurança e  educação de uma criança
+                            
+                        1 mês de todas as necessidades de amparo, segurança, alimentação, educação e formação de uma criança
                         </h4>
                     </div>
                 </div>
@@ -154,8 +155,7 @@
                         <p class="c-cinza mb-0 center">Dia 02 de novembro 21h às 22h</p>
                         <h3 class="c-azul02 mb-0 center">Fernanda Scheer</h3>
                         <p class="c-cinza center">
-                            Live sobre Nutrição consciente<br>
-                            & lifestyle
+                        Tema: Saúde, equilíbrio e<br> longevidade em 8 pilares. 
                         </p>
                     </div>
                 </div>
@@ -179,7 +179,7 @@
                     <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/ana-escobar.png" alt="Ana Escobar">
                     <div>
                         <p class="c-cinza mb-0 center">Dia 03 de novembro 21h às 22h</p>
-                        <h3 class="c-azul02 mb-0 center">Ana Escobar</h3>
+                        <h3 class="c-azul02 mb-0 center">Dra Ana Escobar</h3>
                         <p class="c-cinza center">
                             Live com o tema: Seremos <br> pessoas <br>
                             depois da Pandemia?
@@ -191,6 +191,19 @@
             <!-- tela 02 carrousel -->
             <div class="carousel-cell w-100">
 
+                <div class="flex align-items-center mt-4">
+                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/luizfelipe.png" alt="#">
+
+                    <div>
+                        <p class="c-cinza mb-0 center">Dia 04 de novembro,
+                            das 18h às 19h</p>
+                        <h3 class="c-azul02 mb-0 center">Luiz Felipe Pondé</h3>
+
+                        <p class="c-cinza center">
+                        Tema: Por que as novas gerações não querem mais ter filhos?
+                        </p>
+                    </div>
+                </div>
                 <div class="flex align-items-center mt-4">
                     <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/jacque.png" alt="#">
 
@@ -205,7 +218,11 @@
                     </div>
                 </div>
 
-                <div class="flex align-items-center">
+            </div> <!-- tela 02 carrousel -->
+
+            <!-- tela 03 carrousel -->
+            <div class="carousel-cell w-100">
+            <div class="flex align-items-center">
                     <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/nizanGuanes.png" alt="leilão de obras de arte e Experiências">
 
                     <div>
@@ -220,18 +237,45 @@
                         </p>
                     </div>
                 </div>
-
-            </div> <!-- tela 02 carrousel -->
-
-            <!-- tela 03 carrousel -->
-            <div class="carousel-cell w-100">
-
                 <div class="flex align-items-center">
-                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/leilao-obras.png" alt="leilão de obras de arte e Experiências">
+                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/embreve.svg" alt="#">
 
                     <div>
                         <p class="c-cinza mb-0 center">Dia 05 de novembro,
                             das 20h às 21h</p>
+                        <h3 class="c-azul02 mb-0 center">Live Surpresa</h3>
+                        <p class="c-cinza">
+                            Em breve mais informações
+                        </p>
+                    </div>
+                </div>
+            </div> <!-- tela 03 carrousel -->
+
+            <!-- tela 04 carrousel -->
+            <div class="carousel-cell w-100">
+            <div class="flex align-items-center">
+                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/preta-gil.png" alt="Preta Gil">
+
+                    <div>
+                        <p class="c-cinza mb-0 center">Dia 5 de novembro,
+                        das 21h às 22h</p>
+                        <h3 class="c-azul02 mb-0 center">
+                            Preta Gil
+                        </h3>
+                        <p class="c-cinza">
+                        Cantora, atriz e apresentadora.
+Filha de Gilberto Gil, Preta é
+conhecida por seu talento e
+repertório de música popular.
+                        </p>
+                    </div>
+                </div>
+            <div class="flex align-items-center mt-4">
+                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/leilao-obras.png" alt="leilão de obras de arte e Experiências">
+
+                    <div>
+                        <p class="c-cinza mb-0 center">Dia 06 de novembro,
+                            das 19h às 21h</p>
                         <h3 class="c-azul02 mb-0 center">Leilão de Obras
                             de Arte e
                             Experiências</h3>
@@ -242,43 +286,8 @@
                     </div>
                 </div>
 
-                <div class="flex align-items-center">
-                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/preta-gil.png" alt="Preta Gil">
-
-                    <div>
-                        <p class="c-cinza mb-0 center">Dia 5 de novembro,
-                            21h</p>
-                        <h3 class="c-azul02 mb-0 center">
-                            Preta Gil
-                            Show de Encerramento
-                        </h3>
-                        <p class="c-cinza">
-                           
-                        </p>
-                    </div>
-                </div>
-
-
-
-
-            </div> <!-- tela 03 carrousel -->
-
-            <!-- tela 04 carrousel -->
-            <div class="carousel-cell w-100">
-
-                <div class="flex align-items-center mt-4">
-                    <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/embreve.svg" alt="#">
-
-                    <div>
-                        <p class="c-cinza mb-0 center">Dia 05 de novembro,
-                            das 21h às 22h</p>
-                        <h3 class="c-azul02 mb-0 center">Show Surpresa</h3>
-                        <p class="c-cinza">
-                            Em breve mais informações
-                        </p>
-                    </div>
-                </div>
-            </div> <!-- tela 4 carrousel -->
+            </div>
+             <!-- tela 4 carrousel -->
 
         </div><!-- fim  carrousel atracoes mobile  -->
 
@@ -319,8 +328,7 @@
                                     das 21h às 22h</h4>
                                 <h2 class="c-azul02">Fernanda Scheer</h2>
                                 <p class="cinza">
-                                    Live sobre Nutrição consciente<br>
-                                    & lifestyle
+                                Tema: Saúde, equilíbrio e<br> longevidade em 8 pilares. 
                                 </p>
                             </div>
                         </div><!-- atracao 2 -->
@@ -350,7 +358,7 @@
                             <div class="ml-3">
                                 <h4 class="c-cinza">Dia 03 de novembro, <br>
                                     das 21h às 22h</h4>
-                                <h2 class="c-azul02">Ana Escobar</h2>
+                                <h2 class="c-azul02">Dra Ana Escobar</h2>
                                 <p class="c-cinza">
                                     Live com o tema: Seremos<br> pessoas melhores<br>
                                     depois da Pandemia?
@@ -368,6 +376,17 @@
                     <div class="d-flex justify-content-center">
                         <!-- atracao 1 -->
                         <div class="d-flex align-items-center" style="width: 550px;">
+                            <img src="./assets/img/luizfelipe.png" alt="#">
+                            <div class="ml-3">
+                                <h4 class="c-cinza">Dia 04 de novembro, <br>
+                                    das 18h às 19h</h4>
+                                <h2 class="c-azul02">Luiz Felipe Pondé</h2>
+                                <p class="c-cinza">
+                                Tema: Por que as novas gerações</br> não querem mais ter filhos?
+                                </p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-center" style="width: 550px;">
                             <img src="./assets/img/jacque.png" alt="#">
                             <div class="ml-3">
                                 <h4 class="c-cinza">Dia 04 de novembro, <br>
@@ -377,10 +396,14 @@
                                     Live sobre ”O poder<br> transformador das viagens de<br> experiência
                                 </p>
                             </div>
-                        </div><!-- atracao 1 -->
+                        </div>
 
-                        <!-- atracao 2 -->
-                        <div class="d-flex align-items-center" style="width: 550px;">
+                    </div><!-- linha 1 -->
+
+                    <img class="d-block mx-auto my-4" src="./assets/img/divisoria-atracoes-desk.svg" alt="#">
+                    <!-- linha 2 -->
+                    <div class="d-flex justify-content-center">
+                    <div class="d-flex align-items-center" style="width: 550px;">
                             <img src="./assets/img/nizanGuanes.png" alt="#">
                             <div class="ml-3">
                                 <h4 class="c-cinza">
@@ -394,18 +417,55 @@
                                 </p>
                             </div>
                         </div><!-- atracao 2 -->
-                    </div><!-- linha 1 -->
+                        <!-- atracao 3 -->
+                        <div class="d-flex align-items-center" style="width: 550px;">
+                            <img src="./assets/img/embreve.svg" alt="#">
+                            <div class="ml-3">
+                                <h4 class="c-cinza">Dia 05 de novembro, <br>
+                                    das 20h às 21h</h4>
+                                <h2 class="c-azul02">Live Surpresa</h2>
+                                <p class="c-cinza">
+                                    Em breve mais informações
+                                </p>
+                            </div>
+                        </div>
+                        <!-- atracao 3 -->
+                        <!-- atracao 4 -->
 
-                    <img class="d-block mx-auto my-4" src="./assets/img/divisoria-atracoes-desk.svg" alt="#">
-                    <!-- linha 2 -->
+
+                    </div>
+                </div>
+                <!-- tela 02 carrousel -->
+
+
+                <!-- tela 03 carrousel -->
+                <div class="carousel-cell w-100 px-5">
+                    <!-- linha 1 -->
                     <div class="d-flex justify-content-center">
+                    <div class="d-flex align-items-center" style="width: 550px;">
+                            <img src="./assets/img/preta-gil.png" alt="#">
+                            <div class="ml-3">
+                                <h4 class="c-cinza">
+                                    Dia 05 de novembro,<br>
+                                    das 21h às 22h
+                                </h4>
+                                <h2 class="c-azul02">
+                                    Preta Gil
+                                </h2>
+                                <p class="cinza">
+                                    Cantora, atriz e apresentadora.
+                                    Filha de Gilberto Gil, Preta é
+                                    conhecida por seu talento e
+                                    repertório de música popular.</p>
+                            </div>
+                        </div>
                         <!-- atracao 3 -->
                         <div class="d-flex align-items-center" style="width: 550px;">
                             <img src="./assets/img/leilao-obras.png" alt="#">
                             <div class="ml-3">
                                 <h4 class="c-cinza">
-                                    Dia 05 de novembro,<br>
-                                    das 20h às 21h
+                                    Dia 06 de novembro,<br>
+                                    das 19h às 21h
                                 </h4>
                                 <h2 class="c-azul02">Leilão de Obras
                                     de Arte e
@@ -415,44 +475,6 @@
                             </div>
                         </div>
                         <!-- atracao 3 -->
-
-                        <!-- atracao 4 -->
-                        <div class="d-flex align-items-center" style="width: 550px;">
-                            <img src="./assets/img/preta-gil.png" alt="#">
-                            <div class="ml-3">
-                                <h4 class="c-cinza">
-                                    Dia 05 de novembro,<br>
-                                    21h
-                                </h4>
-                                <h2 class="c-azul02">
-                                    Preta Gil
-                                    Show de Encerramento
-                                </h2>
-                                <p class="cinza"></p>
-                            </div>
-                        </div><!-- atracao 4 -->
-
-                    </div><!-- linha 2-->
-                </div>
-                <!-- tela 02 carrousel -->
-
-
-                <!-- tela 03 carrousel -->
-                <div class="carousel-cell w-100 px-5">
-                    <!-- linha 1 -->
-                    <div class="d-flex justify-content-center">
-                        <!-- atracao 1 -->
-                        <div class="d-flex align-items-center" style="width: 550px;">
-                            <img src="./assets/img/embreve.svg" alt="#">
-                            <div class="ml-3">
-                                <h4 class="c-cinza">Dia 05 de novembro, <br>
-                                    das 21h às 22h</h4>
-                                <h2 class="c-azul02">Show Surpresa</h2>
-                                <p class="c-cinza">
-                                    Em breve mais informações
-                                </p>
-                            </div>
-                        </div><!-- atracao 1 -->
 
                         <!-- <img class="d-block mx-auto my-4" src="./assets/img/divisoria-atracoes-desk.svg" alt="#"> -->
 
@@ -471,12 +493,56 @@
                 </svg>
             </span>
 
-            <img class="triangulo-laranja-pontilhado" src="./assets/img/trainagulo-laranja-pontilhado.svg" alt="#">
+            <img class="triangulo-laranja-pontilhado" src="./assets/img/triangulo-azul-direita2.svg" alt="#">
 
             <a class="d-block d-lg-none btn btn-primary bgc-azul02 bdc-azul02 c-branco w-100 mt-5" href="#header" role="button">Quero Colaborar</a>
         </div>
     </section>
-
+    <section id="ajude-tbm">
+<div class="container-fluid">
+    <div class="row justify-content-center pb-md-5">
+        <div class="col-12 text-center pb-md-4 pt-md-5">
+            <h1 class="c-branco">Faça como eles, ajude você também</h1>
+            <p class="c-cinza bold">Clique nas fotos para ver os vídeos dos nossos parceiros e apoie essa causa</p>
+        </div>
+        <div class="col-6 col-md-2 order-md-1 order-2 py-3 py-md-0">
+            <a href="https://youtu.be/UGgnKPvUIJ8" target="_blank"> <img src="./assets/img/ajude-tbm/gil.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="col-6 col-md-2 order-md-2 order-9 py-3 py-md-0">
+            <a href="https://youtu.be/DiyeKdRcof8" target="_blank"><img src="./assets/img/ajude-tbm/alf.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="col-6 col-md-2 order-md-3 order-4 py-3 py-md-0">
+            <a href="https://youtu.be/yaUSVnYFbUE" target="_blank"> <img src="./assets/img/ajude-tbm/tom.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="col-6 col-md-2 order-md-4 order-3 py-3 py-md-0">
+            <img src="./assets/img/ajude-tbm/joao.png" alt="" class="img-fluid">
+        </div>
+        <div class="col-6 col-md-2 order-md-5 order-5 py-3 py-md-0">
+            <a href="https://youtu.be/mOtenIEdu2A"><img src="./assets/img/ajude-tbm/fab.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="w-100 d-none d-md-block pt-5 order-5"></div>
+        <div class="col-6 col-md-2 order-md-6 order-6 py-3 py-md-0">
+            <a href="https://youtu.be/5A2bBU8RwLg"target="_blank"> <img src="./assets/img/ajude-tbm/raf.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="col-6 col-md-2 order-md-7 order-7 py-3 py-md-0">
+            <a href="https://youtu.be/WnkyKLgOptE" target="_blank"><img src="./assets/img/ajude-tbm/mar.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="col-6 col-md-2 order-md-8 order-8 py-3 py-md-0">
+            <a href="https://youtu.be/T973K1Ly1YY" target="_blank"> <img src="./assets/img/ajude-tbm/ana.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="col-6 col-md-2 order-md-9 order-1 py-3 py-md-0">
+            <a href="https://youtu.be/hX0SfPTesaM" target="_blank"><img src="./assets/img/ajude-tbm/marcus.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="col-6 col-md-2 order-md-10 order-10 py-3 py-md-0">
+            <a href="https://youtu.be/U5tQpU6vuz0" target="_blank"> <img src="./assets/img/ajude-tbm/and.png" alt="" class="img-fluid"></a>
+        </div>
+        <div class="w-100"></div>
+        <div class="col-12 text-center order-11 mt-5 pt-md-4">
+        <a href="#form-ingresso"><button class="btn c-preto btn-branco">Comprar ingresso-doação</button></a>
+        </div>
+    </div>
+</div>
+    </section> 
     <section id="eventos-anteriores" class="container margin-top-sections">
 
 

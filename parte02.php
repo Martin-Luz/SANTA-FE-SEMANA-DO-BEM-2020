@@ -27,7 +27,7 @@
         <h1 class="c-azul mt-2">Mudando histórias </h1>
         <img class="d-block w-100 mt-4 position-img" src="./assets/img/criancas-mobile.png" alt="crianças brincando">
         <p class="c-cinza mt-3">
-        A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, abusos, maus tratos e violência.
+            A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, abusos, maus tratos e violência.
         </p>
 
         <p class="c-preto" style="font-weight: 900; font-size: 20px;">
@@ -46,7 +46,7 @@
                 </svg>
 
                 <p class="c-azul bold position-1-mes">
-                1 mês de todas as necessidades de amparo, <br>segurança, alimentação, educação<br> e formação de uma criança
+                    1 mês de todas as necessidades de amparo, <br>segurança, alimentação, educação<br> e formação de uma criança
                 </p>
             </div>
 
@@ -66,7 +66,7 @@
                     <h4 class="c-cinza mt-5">Sobre a Semana do Bem 2020</h4>
                     <h1 class="c-azul mt-2l">Mudando histórias </h1>
                     <p class="c-cinza mt-3">
-                    A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, abusos, maus tratos e violência.
+                        A Semana do Bem será um evento 100% online, com cinco dias de lives (de 02 a 06 de novembro). Contaremos com atrações inspiradoras, para entreter e motivar os participantes a contribuírem mais uma vez para mudar a história de milhares de crianças vítimas de abandono, abusos, maus tratos e violência.
                     </p>
 
                     <p class="c-preto" style="font-weight: 900; font-size: 18px;">
@@ -92,8 +92,8 @@
                         </svg>
 
                         <h4 class="c-azul bold position-1-mes">
-                            
-                        1 mês de todas as necessidades de amparo, segurança, alimentação, educação e formação de uma criança
+
+                            1 mês de todas as necessidades de amparo, segurança, alimentação, educação e formação de uma criança
                         </h4>
                     </div>
                 </div>
@@ -143,9 +143,10 @@
                         <p class="c-cinza mb-0 center">Dia 02 de novembro 20h às 21h</p>
                         <h3 class="c-azul02 mb-0 center">Live de Esportes</h3>
                         <p class="c-cinza center">
-                            Com Giba, Serginho do vôlei <br>
-                            e Fernando Guimarães 
-                        </p>
+                            <p class="c-cinza center">
+                                Com Giba, Serginho do vôlei <br>
+                                Fernando Guimarães e Bruno Costa
+                            </p>
                     </div>
                 </div>
 
@@ -155,7 +156,7 @@
                         <p class="c-cinza mb-0 center">Dia 02 de novembro 21h às 22h</p>
                         <h3 class="c-azul02 mb-0 center">Fernanda Scheer</h3>
                         <p class="c-cinza center">
-                        Tema: Saúde, equilíbrio e<br> longevidade em 8 pilares. 
+                            Tema: Saúde, equilíbrio e<br> longevidade em 8 pilares.
                         </p>
                     </div>
                 </div>
@@ -200,7 +201,7 @@
                         <h3 class="c-azul02 mb-0 center">Luiz Felipe Pondé</h3>
 
                         <p class="c-cinza center">
-                        Tema: Por que as novas gerações não querem mais ter filhos?
+                            Tema: Por que as novas gerações não querem mais ter filhos?
                         </p>
                     </div>
                 </div>
@@ -222,7 +223,7 @@
 
             <!-- tela 03 carrousel -->
             <div class="carousel-cell w-100">
-            <div class="flex align-items-center">
+                <div class="flex align-items-center">
                     <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/nizanGuanes.png" alt="leilão de obras de arte e Experiências">
 
                     <div>
@@ -253,24 +254,24 @@
 
             <!-- tela 04 carrousel -->
             <div class="carousel-cell w-100">
-            <div class="flex align-items-center">
+                <div class="flex align-items-center">
                     <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/preta-gil.png" alt="Preta Gil">
 
                     <div>
                         <p class="c-cinza mb-0 center">Dia 5 de novembro,
-                        das 21h às 22h</p>
+                            das 21h às 22h</p>
                         <h3 class="c-azul02 mb-0 center">
                             Preta Gil
                         </h3>
                         <p class="c-cinza">
-                        Cantora, atriz e apresentadora.
-Filha de Gilberto Gil, Preta é
-conhecida por seu talento e
-repertório de música popular.
+                            Cantora, atriz e apresentadora.
+                            Filha de Gilberto Gil, Preta é
+                            conhecida por seu talento e
+                            repertório de música popular.
                         </p>
                     </div>
                 </div>
-            <div class="flex align-items-center mt-4">
+                <div class="flex align-items-center mt-4">
                     <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/leilao-obras.png" alt="leilão de obras de arte e Experiências">
 
                     <div>
@@ -287,7 +288,7 @@ repertório de música popular.
                 </div>
 
             </div>
-             <!-- tela 4 carrousel -->
+            <!-- tela 4 carrousel -->
 
         </div><!-- fim  carrousel atracoes mobile  -->
 
@@ -315,7 +316,7 @@ repertório de música popular.
                                 <h2 class="c-azul02">Live de Esportes</h2>
                                 <p class="c-cinza">
                                     Com Giba, Serginho do vôlei <br>
-                                    e Fernando Guimarães
+                                    Fernando Guimarães e Bruno Costa
                                 </p>
                             </div>
                         </div><!-- atracao 1 -->
@@ -328,7 +329,7 @@ repertório de música popular.
                                     das 21h às 22h</h4>
                                 <h2 class="c-azul02">Fernanda Scheer</h2>
                                 <p class="cinza">
-                                Tema: Saúde, equilíbrio e<br> longevidade em 8 pilares. 
+                                    Tema: Saúde, equilíbrio e<br> longevidade em 8 pilares.
                                 </p>
                             </div>
                         </div><!-- atracao 2 -->
@@ -382,7 +383,7 @@ repertório de música popular.
                                     das 18h às 19h</h4>
                                 <h2 class="c-azul02">Luiz Felipe Pondé</h2>
                                 <p class="c-cinza">
-                                Tema: Por que as novas gerações</br> não querem mais ter filhos?
+                                    Tema: Por que as novas gerações</br> não querem mais ter filhos?
                                 </p>
                             </div>
                         </div>
@@ -403,7 +404,7 @@ repertório de música popular.
                     <img class="d-block mx-auto my-4" src="./assets/img/divisoria-atracoes-desk.svg" alt="#">
                     <!-- linha 2 -->
                     <div class="d-flex justify-content-center">
-                    <div class="d-flex align-items-center" style="width: 550px;">
+                        <div class="d-flex align-items-center" style="width: 550px;">
                             <img src="./assets/img/nizanGuanes.png" alt="#">
                             <div class="ml-3">
                                 <h4 class="c-cinza">
@@ -442,7 +443,7 @@ repertório de música popular.
                 <div class="carousel-cell w-100 px-5">
                     <!-- linha 1 -->
                     <div class="d-flex justify-content-center">
-                    <div class="d-flex align-items-center" style="width: 550px;">
+                        <div class="d-flex align-items-center" style="width: 550px;">
                             <img src="./assets/img/preta-gil.png" alt="#">
                             <div class="ml-3">
                                 <h4 class="c-cinza">
@@ -499,50 +500,50 @@ repertório de música popular.
         </div>
     </section>
     <section id="ajude-tbm">
-<div class="container-fluid">
-    <div class="row justify-content-center pb-md-5">
-        <div class="col-12 text-center pb-md-4 pt-md-5">
-            <h1 class="c-branco">Faça como eles, ajude você também</h1>
-            <p class="c-cinza bold">Clique nas fotos para ver os vídeos dos nossos parceiros e apoie essa causa</p>
+        <div class="container-fluid">
+            <div class="row justify-content-center pb-md-5">
+                <div class="col-12 text-center pb-md-4 pt-md-5">
+                    <h1 class="c-branco">Faça como eles, ajude você também</h1>
+                    <p class="c-cinza bold">Clique nas fotos para ver os vídeos dos nossos parceiros e apoie essa causa</p>
+                </div>
+                <div class="col-6 col-md-2 order-md-1 order-2 py-3 py-md-0">
+                    <a href="https://youtu.be/UGgnKPvUIJ8" target="_blank"> <img src="./assets/img/ajude-tbm/gil.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="col-6 col-md-2 order-md-2 order-9 py-3 py-md-0">
+                    <a href="https://youtu.be/DiyeKdRcof8" target="_blank"><img src="./assets/img/ajude-tbm/alf.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="col-6 col-md-2 order-md-3 order-4 py-3 py-md-0">
+                    <a href="https://youtu.be/yaUSVnYFbUE" target="_blank"> <img src="./assets/img/ajude-tbm/tom.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="col-6 col-md-2 order-md-4 order-3 py-3 py-md-0">
+                    <img src="./assets/img/ajude-tbm/joao.png" alt="" class="img-fluid">
+                </div>
+                <div class="col-6 col-md-2 order-md-5 order-5 py-3 py-md-0">
+                    <a href="https://youtu.be/mOtenIEdu2A"><img src="./assets/img/ajude-tbm/fab.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="w-100 d-none d-md-block pt-5 order-5"></div>
+                <div class="col-6 col-md-2 order-md-6 order-6 py-3 py-md-0">
+                    <a href="https://youtu.be/5A2bBU8RwLg" target="_blank"> <img src="./assets/img/ajude-tbm/raf.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="col-6 col-md-2 order-md-7 order-7 py-3 py-md-0">
+                    <a href="https://youtu.be/WnkyKLgOptE" target="_blank"><img src="./assets/img/ajude-tbm/mar.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="col-6 col-md-2 order-md-8 order-8 py-3 py-md-0">
+                    <a href="https://youtu.be/T973K1Ly1YY" target="_blank"> <img src="./assets/img/ajude-tbm/ana.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="col-6 col-md-2 order-md-9 order-1 py-3 py-md-0">
+                    <a href="https://youtu.be/hX0SfPTesaM" target="_blank"><img src="./assets/img/ajude-tbm/marcus.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="col-6 col-md-2 order-md-10 order-10 py-3 py-md-0">
+                    <a href="https://youtu.be/U5tQpU6vuz0" target="_blank"> <img src="./assets/img/ajude-tbm/and.png" alt="" class="img-fluid"></a>
+                </div>
+                <div class="w-100"></div>
+                <div class="col-12 text-center order-11 mt-5 pt-md-4">
+                    <a href="#form-ingresso"><button class="btn c-preto btn-branco">Comprar ingresso-doação</button></a>
+                </div>
+            </div>
         </div>
-        <div class="col-6 col-md-2 order-md-1 order-2 py-3 py-md-0">
-            <a href="https://youtu.be/UGgnKPvUIJ8" target="_blank"> <img src="./assets/img/ajude-tbm/gil.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="col-6 col-md-2 order-md-2 order-9 py-3 py-md-0">
-            <a href="https://youtu.be/DiyeKdRcof8" target="_blank"><img src="./assets/img/ajude-tbm/alf.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="col-6 col-md-2 order-md-3 order-4 py-3 py-md-0">
-            <a href="https://youtu.be/yaUSVnYFbUE" target="_blank"> <img src="./assets/img/ajude-tbm/tom.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="col-6 col-md-2 order-md-4 order-3 py-3 py-md-0">
-            <img src="./assets/img/ajude-tbm/joao.png" alt="" class="img-fluid">
-        </div>
-        <div class="col-6 col-md-2 order-md-5 order-5 py-3 py-md-0">
-            <a href="https://youtu.be/mOtenIEdu2A"><img src="./assets/img/ajude-tbm/fab.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="w-100 d-none d-md-block pt-5 order-5"></div>
-        <div class="col-6 col-md-2 order-md-6 order-6 py-3 py-md-0">
-            <a href="https://youtu.be/5A2bBU8RwLg"target="_blank"> <img src="./assets/img/ajude-tbm/raf.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="col-6 col-md-2 order-md-7 order-7 py-3 py-md-0">
-            <a href="https://youtu.be/WnkyKLgOptE" target="_blank"><img src="./assets/img/ajude-tbm/mar.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="col-6 col-md-2 order-md-8 order-8 py-3 py-md-0">
-            <a href="https://youtu.be/T973K1Ly1YY" target="_blank"> <img src="./assets/img/ajude-tbm/ana.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="col-6 col-md-2 order-md-9 order-1 py-3 py-md-0">
-            <a href="https://youtu.be/hX0SfPTesaM" target="_blank"><img src="./assets/img/ajude-tbm/marcus.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="col-6 col-md-2 order-md-10 order-10 py-3 py-md-0">
-            <a href="https://youtu.be/U5tQpU6vuz0" target="_blank"> <img src="./assets/img/ajude-tbm/and.png" alt="" class="img-fluid"></a>
-        </div>
-        <div class="w-100"></div>
-        <div class="col-12 text-center order-11 mt-5 pt-md-4">
-        <a href="#form-ingresso"><button class="btn c-preto btn-branco">Comprar ingresso-doação</button></a>
-        </div>
-    </div>
-</div>
-    </section> 
+    </section>
     <section id="eventos-anteriores" class="container margin-top-sections">
 
 

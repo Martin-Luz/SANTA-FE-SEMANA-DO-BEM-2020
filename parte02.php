@@ -182,7 +182,7 @@
                <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/jacque.png" alt="#">
                <div>
                   <p class="c-cinza mb-0 center">Dia 04 de novembro,
-                     das 20h às 20h30
+                     das 19h às 20h
                   </p>
                   <h3 class="c-azul02 mb-0 center">Jacque DallalTema</h3>
                   <p class="c-cinza center">
@@ -198,7 +198,7 @@
                <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/nizanGuanes.png" alt="leilão de obras de arte e Experiências">
                <div>
                   <p class="c-cinza mb-0 center">Dia 04 de novembro,
-                     das 20h30 às 21h
+                     das 20h às 20h30
                   </p>
                   <h3 class="c-azul02 mb-0 center">
                      Nizan Guanaes
@@ -249,7 +249,7 @@
                <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/leilao-obras.png" alt="leilão de obras de arte e Experiências">
                <div>
                   <p class="c-cinza mb-0 center">Dia 06 de novembro,
-                     das 19h às 21h
+                     das 19h às 22h
                   </p>
                   <h3 class="c-azul02 mb-0 center">Leilão de Obras
                      de Arte e
@@ -370,7 +370,7 @@
                      <img src="./assets/img/jacque.png" alt="#">
                      <div class="ml-3">
                         <h4 class="c-cinza">Dia 04 de novembro, <br>
-                           das 20h às 20h30
+                           das 19h às 20h
                         </h4>
                         <h2 class="c-azul02">Jacque Dallal</h2>
                         <p class="c-cinza">
@@ -388,7 +388,7 @@
                      <div class="ml-3">
                         <h4 class="c-cinza">
                            Dia 04 de novembro,<br>
-                           das 20h30 às 21h
+                           das 20h às 20h30
                         </h4>
                         <h2 class="c-azul02">Nizan Guanaes</h2>
                         <p class="cinza">
@@ -448,7 +448,7 @@
                      <div class="ml-3">
                         <h4 class="c-cinza">
                            Dia 06 de novembro,<br>
-                           das 19h às 21h
+                           das 19h às 22h
                         </h4>
                         <h2 class="c-azul02">Leilão de Obras
                            de Arte e

@@ -210,22 +210,6 @@
                </div>
             </div>
             <div class="flex align-items-center">
-               <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/embreve.svg" alt="#">
-               <div>
-                  <p class="c-cinza mb-0 center">Dia 05 de novembro,
-                     das 20h às 21h
-                  </p>
-                  <h3 class="c-azul02 mb-0 center">Live Surpresa</h3>
-                  <p class="c-cinza">
-                     Em breve mais informações
-                  </p>
-               </div>
-            </div>
-         </div>
-         <!-- tela 03 carrousel -->
-         <!-- tela 04 carrousel -->
-         <div class="carousel-cell w-100">
-            <div class="flex align-items-center">
                <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/geraldo.png" alt="#">
                <div>
                   <p class="c-cinza mb-0 center">Dia 05 de novembro,
@@ -237,6 +221,13 @@
                   </p>
                </div>
             </div>
+
+
+         </div>
+         <!-- tela 03 carrousel -->
+         <!-- tela 04 carrousel -->
+         <div class="carousel-cell w-100">
+
             <div class="flex align-items-center">
                <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/preta-gil.png" alt="Preta Gil">
                <div>
@@ -254,10 +245,6 @@
                   </p>
                </div>
             </div>
-         </div>
-         <!-- tela 4 carrousel -->
-         <!-- tela 05 carrousel -->
-         <div class="carousel-cell w-100">
             <div class="flex align-items-center mt-4">
                <img class="d-block mx-auto  foto-atracoes-mobile" src="./assets/img/leilao-obras.png" alt="leilão de obras de arte e Experiências">
                <div>
@@ -270,11 +257,14 @@
                   </h3>
                   <p class="c-cinza">
                      André Abucham e Roberto de <br>
-                     Magalhães Gouvêa
+                     Magalhães Gouvêa<br>
+                     <a href="https://www.blomboleiloes.com.br/"style="text-decoration: underline;" target="_blank">Faça seu cadastro com antecedência para participar do leilão</a>
                   </p>
                </div>
             </div>
          </div>
+         <!-- tela 4 carrousel -->
+         <!-- tela 05 carrousel -->
       </div>
       <!-- fim  carrousel atracoes mobile  -->
       <!-- carrousel atracoes desk  -->
@@ -410,27 +400,6 @@
                   <!-- atracao 2 -->
                   <!-- atracao 3 -->
                   <div class="d-flex align-items-center" style="width: 550px;">
-                     <img src="./assets/img/embreve.svg" alt="#">
-                     <div class="ml-3">
-                        <h4 class="c-cinza">Dia 05 de novembro, <br>
-                           das 20h às 21h
-                        </h4>
-                        <h2 class="c-azul02">Live Surpresa</h2>
-                        <p class="c-cinza">
-                           Em breve mais informações
-                        </p>
-                     </div>
-                  </div>
-                  <!-- atracao 3 -->
-                  <!-- atracao 4 -->
-               </div>
-            </div>
-            <!-- tela 02 carrousel -->
-            <!-- tela 03 carrousel -->
-            <div class="carousel-cell w-100 px-5">
-               <!-- linha 1 -->
-               <div class="d-flex justify-content-center">
-                  <div class="d-flex align-items-center" style="width: 550px;">
                      <img src="./assets/img/geraldo.png" alt="#">
                      <div class="ml-3">
                         <h4 class="c-cinza">
@@ -446,6 +415,16 @@
                         </p>
                      </div>
                   </div>
+
+                  <!-- atracao 3 -->
+                  <!-- atracao 4 -->
+               </div>
+            </div>
+            <!-- tela 02 carrousel -->
+            <!-- tela 03 carrousel -->
+            <div class="carousel-cell w-100 px-5">
+               <!-- linha 1 -->
+               <div class="d-flex justify-content-center">
                   <div class="d-flex align-items-center" style="width: 550px;">
                      <img src="./assets/img/preta-gil.png" alt="#">
                      <div class="ml-3">
@@ -464,9 +443,6 @@
                         </p>
                      </div>
                   </div>
-               </div>
-               <!-- tela 03 carrousel -->
-               <div class="d-flex justify-content-center">
                   <div class="d-flex align-items-center" style="width: 550px;">
                      <img src="./assets/img/leilao-obras.png" alt="#">
                      <div class="ml-3">
@@ -480,10 +456,13 @@
                         </h2>
                         <p class="cinza">André Abucham e Roberto de<br>
                            Magalhães Gouvêa
+                           <br>
+                           <a href="https://www.blomboleiloes.com.br/" style="text-decoration: underline;" target="_blank">Faça seu cadastro com antecedência para participar do leilão</a>
                         </p>
                      </div>
                   </div>
                </div>
+               <!-- tela 03 carrousel -->
             </div>
             <!-- fim  carrousel atracoes desk  -->
          </div>
